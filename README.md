@@ -55,7 +55,7 @@
 ---
 
 ## 📫 Como me encontrar  
-- 💼 LinkedIn: **(https://linkedin.com/in/rafael-shafie)**  
+- 💼 LinkedIn: **https://linkedin.com/in/rafael-shafie**  
 - 📧 E-mail: **rafael.shafie@gmail.com**  
 
 ---
