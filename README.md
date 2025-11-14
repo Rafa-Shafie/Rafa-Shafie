@@ -54,14 +54,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ## 📫 Como me encontrar  
 - 💼 LinkedIn: **[seu link]**  
 - 📧 E-mail: **seu email**  
