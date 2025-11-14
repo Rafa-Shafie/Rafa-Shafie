@@ -14,7 +14,7 @@
   - Modelagem de dados e boas práticas (SOLID, Clean Code)
 - ☁️ Explorando **Cloud AWS**  
 - 🧠 Aprimorando algoritmos e estruturas de dados  
-- 📚 Atualmente estudando: Java, Spring Boot, MySQL, AWS, APIs REST, Python
+- 📚 Atualmente estudando: Java, Spring Boot, PostgreSQL, AWS, APIs REST, Python
 
 ---
 
@@ -37,7 +37,7 @@
 ### **Banco de Dados**
 <div>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
 
 ### **Cloud**
