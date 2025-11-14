@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
 <p align="center">
-  Desenvolvedor Back-end | Java • Spring Boot • SQLServer • MySQL • AWS  
+  Desenvolvedor Back-end | Java • Spring Boot • MySQL • AWS  
 </p>
 
 ---
