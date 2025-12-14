@@ -1,30 +1,28 @@
-<h1 align="center">Olá, eu sou o Rafael 👋</h1>
+<h1 align="center">Hi, I'm Rafael 👋</h1>
 
 <p align="center">
-  Estudante de Engenharia de Software • Desenvolvedor Back-end em formação  
+  Software Engineering Student • Backend Developer in training  
   <br/>
   Java • Spring Boot • MySQL • AWS
 </p>
 
 ---
 
-## 🚀 Sobre mim  
+## 🚀 About Me  
 
-🎓 Estudante de Engenharia de Software, com foco em **desenvolvimento backend**.
+🎓 Software Engineering student with a focus on **backend development**.
 
-Atualmente estou me aprofundando em:
-- ☕ Java e ecossistema Spring (Spring Boot, Spring Data, APIs REST)
-- 🗄️ Banco de dados relacionais (MySQL, SQL Server)
-- ☁️ Fundamentos de Cloud Computing (AWS)
-- 📊 Ferramentas analíticas como Excel e Power BI
-
-Já tive experiência em projetos dentro de um ambiente de uma empresa júnior de consultoria, chamada Fluxo Consultoria, atuando tanto na área técnica quanto administrativa, o que contribuiu para o desenvolvimento de habilidades como **organização, comunicação, trabalho em equipe e visão de negócio**.
+I am currently deepening my knowledge in:
+- ☕ Java and the Spring ecosystem (Spring Boot, Spring Data, REST APIs)
+- 🗄️ Relational databases (MySQL, SQL Server)
+- ☁️ Cloud Computing fundamentals (AWS)
+- 📊 Analytical tools such as Excel and Power BI
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Technologies & Tools  
 
-### **Linguagens**
+### **Languages**
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,7 +34,7 @@ Já tive experiência em projetos dentro de um ambiente de uma empresa júnior d
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
-### **Banco de Dados**
+### **Databases**
 <div>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -47,7 +45,7 @@ Já tive experiência em projetos dentro de um ambiente de uma empresa júnior d
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
-### **Ferramentas**
+### **Tools**
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -57,22 +55,22 @@ Já tive experiência em projetos dentro de um ambiente de uma empresa júnior d
 
 ---
 
-## 🧠 Fundamentos de Computação
-- Redes de Computadores  
-- Modelagem de Dados  
-- Estruturas de Dados
+## 🧠 Computer Science Fundamentals
+- Computer Networks  
+- Data Modeling  
+- Data Structures  
 
 ---
 
-## 🔁 Metodologias Ágeis
+## 🔁 Agile Methodologies
 - Scrum  
 - Kanban  
 
 ---
 
-## 📫 Como me encontrar  
+## 📫 How to reach me  
 
 - 💼 LinkedIn: <a href="https://linkedin.com/in/rafael-shafie">linkedin.com/in/rafael-shafie</a>  
-- 📧 E-mail: <a href="mailto:rafael.shafie@gmail.com">rafael.shafie@gmail.com</a>  
+- 📧 Email: <a href="mailto:rafael.shafie@gmail.com">rafael.shafie@gmail.com</a>  
 
 ---
