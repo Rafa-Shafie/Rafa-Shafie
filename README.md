@@ -70,7 +70,7 @@ I am currently deepening my knowledge in:
 
 ## 📫 How to reach me  
 
-- 💼 LinkedIn: <a href="https://linkedin.com/in/rafael-shafie">linkedin.com/in/rafael-shafie</a>  
-- 📧 Email: <a href="mailto:rafael.shafie@gmail.com">rafael.shafie@gmail.com</a>  
+- 💼 LinkedIn: <a href="https://linkedin.com/in/rafael-shafie" target="_blank" rel="noopener noreferrer">linkedin.com/in/rafael-shafie</a>  
+- 📧 Email: <a href="mailto:rafael.shafie@gmail.com" target="_blank" rel="noopener noreferrer">rafael.shafie@gmail.com</a>  
 
 ---
