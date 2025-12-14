@@ -18,7 +18,7 @@ Atualmente estou me aprofundando em:
 - ☁️ Fundamentos de Cloud Computing (AWS)
 - 📊 Ferramentas analíticas como Excel e Power BI
 
-Já tive experiência em projetos dentro de um ambiente de uma empresa júnior de consultoria chamada Fluxo Consultoria, atuando tanto na área técnica quanto administrativa, o que contribuiu para o desenvolvimento de habilidades como **organização, comunicação, trabalho em equipe e visão de negócio**.
+Já tive experiência em projetos dentro de um ambiente de uma empresa júnior de consultoria, chamada Fluxo Consultoria, atuando tanto na área técnica quanto administrativa, o que contribuiu para o desenvolvimento de habilidades como **organização, comunicação, trabalho em equipe e visão de negócio**.
 
 ---
 
