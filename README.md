@@ -7,14 +7,8 @@
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 Estudante de Engenharia de Software 
-- 💼 Experiência em:
-  - Desenvolvimento **Back-end com Java**
-  - Projetos de **consultoria tecnológica**  
-  - Modelagem de dados e boas práticas (SOLID, Clean Code)
-- ☁️ Explorando **Cloud AWS**  
-- 🧠 Aprimorando algoritmos e estruturas de dados  
-- 📚 Atualmente estudando: Java, Spring Boot, PostgreSQL, AWS, APIs REST, Python
+- 🎓 Estudante de Engenharia de Software
+- 📚 Atualmente estudando: Java, Excel, Power BI, MySQL, APIs REST, Spring Framework, Spring Data, Python
 
 ---
 
