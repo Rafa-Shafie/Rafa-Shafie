@@ -1,14 +1,24 @@
 <h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
 <p align="center">
-  Desenvolvedor Back-end | Java • Spring Boot • MySQL • AWS  
+  Estudante de Engenharia de Software • Desenvolvedor Back-end em formação  
+  <br/>
+  Java • Spring Boot • MySQL • AWS
 </p>
 
 ---
 
 ## 🚀 Sobre mim  
-- 🎓 Estudante de Engenharia de Software
-- 📚 Atualmente estudando: Java, Excel, Power BI, MySQL, APIs REST, Spring Framework, Spring Data, Python
+
+🎓 Estudante de Engenharia de Software, com foco em **desenvolvimento backend**.
+
+Atualmente estou me aprofundando em:
+- ☕ Java e ecossistema Spring (Spring Boot, Spring Data, APIs REST)
+- 🗄️ Banco de dados relacionais (MySQL, SQL Server)
+- ☁️ Fundamentos de Cloud Computing (AWS)
+- 📊 Ferramentas analíticas como Excel e Power BI
+
+Já tive experiência em projetos dentro de um ambiente de uma empresa júnior de consultoria chamada Fluxo Consultoria, atuando tanto na área técnica quanto administrativa, o que contribuiu para o desenvolvimento de habilidades como **organização, comunicação, trabalho em equipe e visão de negócio**.
 
 ---
 
@@ -18,6 +28,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ### **Back-end**
@@ -44,8 +55,22 @@
 
 ---
 
+## 🧠 Fundamentos de Computação
+- Redes de Computadores  
+- Modelagem de Dados  
+- Estruturas de Dados
+
+---
+
+## 🔁 Metodologias Ágeis
+- Scrum  
+- Kanban  
+
+---
+
 ## 📫 Como me encontrar  
-- 💼 LinkedIn: **https://linkedin.com/in/rafael-shafie**  
-- 📧 E-mail: **rafael.shafie@gmail.com**  
+
+- 💼 LinkedIn: <a href="https://linkedin.com/in/rafael-shafie">linkedin.com/in/rafael-shafie</a>  
+- 📧 E-mail: <a href="mailto:rafael.shafie@gmail.com">rafael.shafie@gmail.com</a>  
 
 ---
