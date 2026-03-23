@@ -16,7 +16,7 @@ I am currently deepening my knowledge in:
 - ☕ Java and the Spring ecosystem (Spring Boot, Spring Data, REST APIs)
 - 🗄️ Relational databases (MySQL, PostgreSQL)
 - ☁️ Cloud Computing fundamentals and AWS services
-- 📊 Data analysis and analytical tools such as Excel and Power BI
+- 📊 Data analysis and data tools such as Pandas, Apache Spark, Databricks, Excel, and Power BI
 - 🧩 Software engineering fundamentals, APIs, and system design concepts
 
 ---
@@ -45,14 +45,16 @@ I am currently deepening my knowledge in:
 ### **Cloud**
 <div>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
 ### **Data & Analytics**
 <div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Parquet-50ABF1?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
 ### **Tools**
