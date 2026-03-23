@@ -3,7 +3,7 @@
 <p align="center">
   Software Engineering Student • Backend Developer in training  
   <br/>
-  Java • Spring Boot • MySQL • AWS
+  Java • Spring Boot • PostgreSQL • AWS
 </p>
 
 ---
@@ -14,9 +14,10 @@
 
 I am currently deepening my knowledge in:
 - ☕ Java and the Spring ecosystem (Spring Boot, Spring Data, REST APIs)
-- 🗄️ Relational databases (MySQL, SQL Server)
-- ☁️ Cloud Computing fundamentals (AWS)
-- 📊 Analytical tools such as Excel and Power BI
+- 🗄️ Relational databases (MySQL, PostgreSQL)
+- ☁️ Cloud Computing fundamentals and AWS services
+- 📊 Data analysis and analytical tools such as Excel and Power BI
+- 🧩 Software engineering fundamentals, APIs, and system design concepts
 
 ---
 
@@ -32,25 +33,32 @@ I am currently deepening my knowledge in:
 ### **Back-end**
 <div>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 ### **Databases**
 <div>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ### **Cloud**
 <div>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</div>
+
+### **Data & Analytics**
+<div>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Analysis-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
 </div>
 
 ### **Tools**
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
 
 ---
@@ -59,6 +67,8 @@ I am currently deepening my knowledge in:
 - Computer Networks  
 - Data Modeling  
 - Data Structures  
+- Object-Oriented Programming  
+- Algorithms and Logic  
 
 ---
 
