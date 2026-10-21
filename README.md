@@ -73,8 +73,6 @@ My technical interests and ongoing studies include:
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </div>
 
-Responsive web design • Internationalization (i18n: Portuguese, English, and Spanish) • Web accessibility
-
 ### **Cloud & Infrastructure**
 <div>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
