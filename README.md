@@ -16,6 +16,8 @@ I have hands-on experience developing an internal AI assistant and delivering it
 
 I'm currently deepening my knowledge of **Java and the Spring ecosystem**, building on my experience with Python, FastAPI, relational databases, and cloud environments.
 
+I built my [multilingual portfolio](https://www.rafashafie.site/) with **Astro and TypeScript**, applying responsive design and web accessibility practices.
+
 My technical interests and ongoing studies include:
 - ☕ Java, Spring Boot, Spring Data JPA, and REST APIs
 - 🤖 LLM integration, RAG, knowledge bases, and AI response evaluation
@@ -35,6 +37,7 @@ My technical interests and ongoing studies include:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 ### **Back-end**
@@ -65,7 +68,12 @@ My technical interests and ongoing studies include:
 ### **Front-end**
 <div>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </div>
+
+Responsive web design • Internationalization (i18n: Portuguese, English, and Spanish) • Web accessibility
 
 ### **Cloud & Infrastructure**
 <div>
@@ -134,8 +142,9 @@ My technical interests and ongoing studies include:
 
 ## 📫 How to reach me
 
-- 🌐 Portfolio: <a href="https://portfolio-chi-pink-45.vercel.app/">portfolio-chi-pink-45.vercel.app</a>
+- 🌐 Portfolio: <a href="https://www.rafashafie.site/">rafashafie.site</a>
 - 💼 LinkedIn: <a href="https://linkedin.com/in/rafael-shafie">linkedin.com/in/rafael-shafie</a>
 - 📧 Email: <a href="mailto:rafael.shafie@gmail.com">rafael.shafie@gmail.com</a>
 
 ---
+
